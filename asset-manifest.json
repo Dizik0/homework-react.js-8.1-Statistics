@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework-react.js-8.1-Statistics/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/homework-react.js-8.1-Statistics/static/js/main.da4ee33d.chunk.js",
+    "main.js.map": "/homework-react.js-8.1-Statistics/static/js/main.da4ee33d.chunk.js.map",
+    "runtime-main.js": "/homework-react.js-8.1-Statistics/static/js/runtime-main.5406de6f.js",
+    "runtime-main.js.map": "/homework-react.js-8.1-Statistics/static/js/runtime-main.5406de6f.js.map",
+    "static/js/2.ea03f4b2.chunk.js": "/homework-react.js-8.1-Statistics/static/js/2.ea03f4b2.chunk.js",
+    "static/js/2.ea03f4b2.chunk.js.map": "/homework-react.js-8.1-Statistics/static/js/2.ea03f4b2.chunk.js.map",
+    "static/js/3.0aae7e82.chunk.js": "/homework-react.js-8.1-Statistics/static/js/3.0aae7e82.chunk.js",
+    "static/js/3.0aae7e82.chunk.js.map": "/homework-react.js-8.1-Statistics/static/js/3.0aae7e82.chunk.js.map",
+    "index.html": "/homework-react.js-8.1-Statistics/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/homework-react.js-8.1-Statistics/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.ea03f4b2.chunk.js.LICENSE.txt": "/homework-react.js-8.1-Statistics/static/js/2.ea03f4b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5406de6f.js",
+    "static/js/2.ea03f4b2.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.da4ee33d.chunk.js"
+  ]
+}
